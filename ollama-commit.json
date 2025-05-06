@@ -1,0 +1,5 @@
+{
+  "ollamaApiUrl": "http://localhost:11434/api/generate",
+  "defaultModel": "gemma3:1b",
+  "promptTemplate": "Act as a software developer.\nGive commit message based on code changes no more than two sentenses. \n\nContex:\n%s"
+}
