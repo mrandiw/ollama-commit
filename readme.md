@@ -81,7 +81,6 @@ The configuration file is in JSON format:
 ```json
 {
   "ollamaApiUrl": "http://localhost:11434/api/generate",
-  "ollamaCompletionUrl": "http://localhost:11434/api/chat",
   "defaultModel": "llama3",
   "promptTemplate": "Generate a concise and descriptive git commit message based on the following changes.\nFollow best practices for git commit messages: use imperative mood, keep it under 50 characters for the first line,\nand add more details in a body if necessary.\n\nRespond ONLY with the commit message, no other text, explanation, or quotes.\nJust the commit message that would be used with 'git commit -m'.\n\nChanges:\n%s"
 }
