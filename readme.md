@@ -124,6 +124,11 @@ feat: add user authentication and password reset functionality
 Changes committed successfully!
 ```
 
+# DEMO
+https://github.com/user-attachments/assets/d54fc05c-2a4e-44a0-9846-57e8f20b7b22
+
+
+
 ## License
 
 MIT
