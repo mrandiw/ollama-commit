@@ -14,7 +14,7 @@ A simple CLI tool that uses Ollama's API to automatically generate git commit me
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ollama-commit.git
+   git clone https://github.com/mrandiw/ollama-commit.git
    cd ollama-commit
    ```
 
@@ -37,7 +37,7 @@ A simple CLI tool that uses Ollama's API to automatically generate git commit me
 You can also install directly using Go:
 
 ```bash
-go install github.com/yourusername/ollama-commit@latest
+go install github.com/mrandiw/ollama-commit@latest
 ```
 
 ## Usage

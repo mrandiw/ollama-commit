@@ -4,9 +4,10 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
-	"ollama-commit/cmd"
 	"os"
 	"path/filepath"
+
+	"github.com/mrandiw/ollama-commit/cmd"
 )
 
 func main() {
